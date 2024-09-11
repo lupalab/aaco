@@ -1,0 +1,5 @@
+numpy==1.21.6
+torch==1.13.1
+xgboost==1.6.1  # XGBoost used in classifier
+scikit-learn==1.0.2  # Used for machine learning utilities and models
+PyYAML==5.4.1  # Used for loading the configuration file
